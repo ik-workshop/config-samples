@@ -1,0 +1,31 @@
+users:
+- name: Lester Hanson
+  postalZip: '663536'
+  region: Arkansas
+  phone: "(723) 712-9653"
+  email: tincidunt.orci.quis@protonmail.net
+  currency: "$14.91"
+- name: Dalton Ashley
+  postalZip: '3552'
+  region: Oslo
+  phone: "(343) 681-1402"
+  email: auctor@protonmail.org
+  currency: "$1.00"
+- name: Riley Rowe
+  postalZip: '36227'
+  region: Northern Territory
+  phone: "(148) 563-3568"
+  email: fringilla.purus@outlook.edu
+  currency: "$65.76"
+- name: Cassidy Stephenson
+  postalZip: '51529'
+  region: Östergötlands län
+  phone: "(385) 271-5471"
+  email: ipsum.dolor@icloud.net
+  currency: "$79.81"
+- name: Azalia Boyd
+  postalZip: '73821'
+  region: Leinster
+  phone: "(831) 431-4414"
+  email: netus.et@icloud.org
+  currency: "$92.92"
