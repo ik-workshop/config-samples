@@ -1,0 +1,72 @@
+[
+	{
+		"_id": "61edbe199b3af19baeccc81f",
+		"guid": "4afaa67e-aa60-4827-b190-e8c81483cffa",
+		"isActive": false,
+		"balance": "$2,910.15",
+		"company": "AQUAZURE",
+		"email": "olivediaz@aquazure.com",
+		"phone": "+1 (830) 475-2343",
+		"address": "913 Chester Street, Ona, Delaware, 277",
+		"about": "Pariatur minim labore anim nostrud ea nostrud cillum mollit reprehenderit. Deserunt id Lorem eu adipisicing ea in culpa aliquip esse sit. Magna nulla exercitation non dolor exercitation Lorem consectetur culpa pariatur ad. Sunt dolor labore tempor ad proident voluptate aliqua duis quis.\r\n",
+		"registered": "2015-04-01T04:04:47 -01:00",
+		"latitude": 67.304592,
+		"longitude": 96.625568
+	},
+	{
+		"_id": "61edbe191407f6b440b2275d",
+		"guid": "36813b8d-1c8d-4c21-b7f1-8641e4c43a1f",
+		"isActive": true,
+		"balance": "$3,881.88",
+		"company": "COMTRAIL",
+		"email": "olivediaz@comtrail.com",
+		"phone": "+1 (943) 403-3770",
+		"address": "630 Manhattan Court, Wawona, Indiana, 8613",
+		"about": "Pariatur adipisicing commodo ullamco nostrud occaecat velit laboris dolore aliqua commodo mollit do consequat voluptate. Do consequat aliqua veniam eu excepteur labore elit eiusmod. Proident est adipisicing nostrud dolor occaecat excepteur velit Lorem aliqua occaecat. Consectetur eu duis labore proident in. Officia pariatur nostrud elit anim. Tempor consectetur nisi ea amet ex ipsum cupidatat ipsum ex et ipsum anim. Anim excepteur ad exercitation exercitation officia.\r\n",
+		"registered": "2014-05-02T11:45:14 -01:00",
+		"latitude": -82.658558,
+		"longitude": -48.383433
+	},
+	{
+		"_id": "61edbe196aaa498474888fa1",
+		"guid": "e3a346a9-c49e-4c3d-aa34-4619fd9f8a8a",
+		"isActive": false,
+		"balance": "$3,968.30",
+		"company": "GENMEX",
+		"email": "olivediaz@genmex.com",
+		"phone": "+1 (936) 423-3246",
+		"address": "189 Harden Street, Cliff, Palau, 3155",
+		"about": "Labore cillum ea deserunt laboris ut. Ea aliquip aliquip laboris aliquip fugiat occaecat dolore reprehenderit adipisicing voluptate mollit anim. Dolore voluptate dolor do laborum cupidatat cupidatat deserunt in ad aliqua. Ad labore minim qui est eiusmod. Sit veniam exercitation sint deserunt deserunt eu.\r\n",
+		"registered": "2020-04-14T02:01:41 -01:00",
+		"latitude": -71.522672,
+		"longitude": 37.360903
+	},
+	{
+		"_id": "61edbe19448a7494417f3f98",
+		"guid": "81162c32-cd63-4b77-8a61-a8372e6d7549",
+		"isActive": true,
+		"balance": "$2,995.67",
+		"company": "AFFLUEX",
+		"email": "olivediaz@affluex.com",
+		"phone": "+1 (885) 545-2027",
+		"address": "940 Rockaway Avenue, Winesburg, Nebraska, 2098",
+		"about": "Duis excepteur nulla ut laboris ea id est mollit id elit Lorem. Dolor esse enim culpa et. Do ipsum ipsum do deserunt est ad velit. Minim enim velit eiusmod commodo dolor elit incididunt. Veniam dolor dolore ullamco nulla. Nisi eu ullamco cupidatat esse fugiat quis proident.\r\n",
+		"registered": "2018-01-19T06:08:04 -00:00",
+		"latitude": 9.865061,
+		"longitude": 87.818563
+	},
+	{
+		"_id": "61edbe190744a10bd7582193",
+		"guid": "1c6a45b7-7742-422e-ac81-53bcae09f9c9",
+		"isActive": false,
+		"balance": "$3,179.47",
+		"company": "ZILODYNE",
+		"email": "olivediaz@zilodyne.com",
+		"phone": "+1 (820) 500-3778",
+		"address": "131 Myrtle Avenue, Gambrills, North Dakota, 1955",
+		"about": "Aliqua et ea labore mollit qui mollit magna labore. In dolore sit exercitation ut occaecat irure. Excepteur ut id laborum dolore laboris quis commodo id. Ullamco sint minim et deserunt pariatur et amet esse.\r\n",
+		"registered": "2020-07-03T02:32:42 -01:00",
+		"latitude": -72.948214,
+		"longitude": -162.706571
+	}
+]
